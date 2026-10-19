@@ -224,7 +224,7 @@ const projects = [
 
     liveLink: "#",
 
-    caseStudyLink: "", // Add ELARA Medium URL after publishing
+    caseStudyLink: "hhttps://medium.com/@lerricatorreno007/elara-designing-a-hotel-management-and-booking-interface-with-react-f263399e74f8", 
 
     featured: true,
   },
